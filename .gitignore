@@ -1,10 +1,7 @@
-bigearthnet/data/
-bigearthnet/checkpoints/
 *.tar
 *.pth
 __pycache__/
 *.pyc
-bigearthnet_data/
 output*/
 *.log
 .DS_Store
