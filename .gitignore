@@ -5,3 +5,6 @@ bigearthnet/checkpoints/
 __pycache__/
 *.pyc
 bigearthnet_data/
+output*/
+*.log
+.DS_Store
